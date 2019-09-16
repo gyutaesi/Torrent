@@ -5,4 +5,3 @@ cd /volume1/Torrent/Result
 git add *
 git commit -m $NowDate
 git push
-rm *.xml
